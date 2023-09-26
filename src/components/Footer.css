@@ -1,0 +1,22 @@
+#textblock-footer {
+  color: #ffffff;
+  font-size: 15px;
+  font-weight: 400;
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+  background-color: grey;
+  padding: 10px;
+  text-align: center;
+}
+
+#textblock-sapient {
+  text-decoration: none;
+  color: #ff0000;
+  font-size: 15px;
+  font-weight: 600;
+}
+
+.footer-icons a {
+  padding: 5px;
+}
