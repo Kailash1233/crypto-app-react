@@ -2,10 +2,10 @@
   color: #ffffff;
   font-size: 15px;
   font-weight: 400;
-  position: fixed;
+  /* position: fixed; */
   width: 100%;
   bottom: 0;
-  background-color: grey;
+  background-color: black;
   padding: 10px;
   text-align: center;
 }
